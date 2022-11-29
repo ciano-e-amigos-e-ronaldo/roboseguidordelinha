@@ -1,7 +1,7 @@
-const int motorA = 5; //velocidade motor A - de 0 a 255
-const int motorB = 6; //velocidade motor B - de 0 a 255
-const int dirA = 7; //direcao do motor A - HIGH ou LOW
-const int dirB = 8; //direcao do motor B - HIGH ou LOW  
+const int motorA = 5; 
+const int motorB = 6; 
+const int dirA = 7; 
+const int dirB = 8; 
 int Sensor1 = 3;
 int Valor_Sensor1 = 0; 
 int Sensor2 = 4; 
